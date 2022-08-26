@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/amigoSpring.iml" filepath="$PROJECT_DIR$/.idea/amigoSpring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/my-app/my-app.iml" filepath="$PROJECT_DIR$/my-app/my-app.iml" />
     </modules>
   </component>
 </project>
